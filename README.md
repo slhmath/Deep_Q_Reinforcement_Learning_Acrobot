@@ -8,29 +8,29 @@ Here is a sample of the agent performing during the training phase:
 <img src="https://github.com/slhmath/Deep_Q_Reinforcement_Learning_Acrobot/blob/main/DeepQ_Acrobot_Training.gif" width="200" height="200">
 
 
-After training is complete, the Deep Q-Network has discovered an approximate optimal policy. Below are examples of how the trained agent peforms on the first 4 test runs:
+After training is complete, the Deep Q-Network has discovered an approximately optimal policy. Below are examples of how the trained agent peforms on the first 4 test runs:
 
 
 <img src="https://github.com/slhmath/Deep_Q_Reinforcement_Learning_Acrobot/blob/main/Test_Run_1.gif" width="200" height="200">
 
 
-(steps: 111)
+(Run 1. Steps: 111)
 
 
 <img src="https://github.com/slhmath/Deep_Q_Reinforcement_Learning_Acrobot/blob/main/Test_Run_2.gif" width="200" height="200">
 
 
-(steps: 82)
+(Run 2. Steps: 82)
 
 
 <img src="https://github.com/slhmath/Deep_Q_Reinforcement_Learning_Acrobot/blob/main/Test_Run_3.gif" width="200" height="200">
 
 
-(steps: 96)
+(Run 3. Steps: 96)
 
 
 <img src="https://github.com/slhmath/Deep_Q_Reinforcement_Learning_Acrobot/blob/main/Test_Run_4.gif" width="200" height="200">
 
 
-(steps: 83)
+(Run 4. Steps: 83)
 
