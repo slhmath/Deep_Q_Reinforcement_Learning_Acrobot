@@ -14,11 +14,23 @@ After training is complete, the Deep Q-Network has discovered an approximate opt
 <img src="https://github.com/slhmath/Deep_Q_Reinforcement_Learning_Acrobot/blob/main/Test_Run_1.gif" width="200" height="200">
 
 
+(steps: 111)
+
+
 <img src="https://github.com/slhmath/Deep_Q_Reinforcement_Learning_Acrobot/blob/main/Test_Run_2.gif" width="200" height="200">
+
+
+(steps: 82)
 
 
 <img src="https://github.com/slhmath/Deep_Q_Reinforcement_Learning_Acrobot/blob/main/Test_Run_3.gif" width="200" height="200">
 
 
+(steps: 96)
+
+
 <img src="https://github.com/slhmath/Deep_Q_Reinforcement_Learning_Acrobot/blob/main/Test_Run_4.gif" width="200" height="200">
+
+
+(steps: 83)
 
