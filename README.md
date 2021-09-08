@@ -1,7 +1,7 @@
 # Deep_Q_Reinforcement_Learning_Acrobot
 We train a Deep Neural Network to estimate the optimal policy or Q(uality)-Values for an agent in the Acrobot-v1 system in OpenAI Gym.
 
-The agents 'goal' is to swing its two limbs so that the lower limb breaches the horizontal bar directly above it.
+The agents 'goal' is to swing its two limbs so that the lower limb breaches the horizontal bar directly above it. The first joint (corresponding to the gymnast's hands on the bar) is fixed and cannot exert torque, but the second joint (corresponding to the gymnast's waist) can.
 Here is a sample of the agent performing during the training phase: 
 
 
